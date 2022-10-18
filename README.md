@@ -2,16 +2,7 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-    - My motivation for creating this project was to give myself a source of information from which to pull from when studying.
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")\
-    - This project was built in order to teach me the fundamentals of coding as well as create a study guide that I will be able to use during the bootcamp.
-- What problem does it solve?
-    - This project solves the issue of not having a roadmap for success during this bootcamp.
-- What did you learn?
-    - I learned how to apply HTML, CSS, and JavaScript in VSC in order to create my own website that can be used as a study guide.
+My motivation for creating this project was to give myself a source of information from which to pull from when studying. This project was built in order to teach me the fundamentals of coding as well as create a study guide that I will be able to use during the bootcamp. This project solves the issue of not having a roadmap for success during this bootcamp. I learned how to apply HTML, CSS, and JavaScript in VSC in order to create my own website that can be used as a study guide.
 
 ## Installation
 
@@ -29,7 +20,7 @@ N/A
 
 MIT License
 
-Copyright (c) [2022] [Marcelo Andres Perez]
+Copyright (c) [2022] Marcelo Andres Perez
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
